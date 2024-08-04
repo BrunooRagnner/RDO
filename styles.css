@@ -1,9 +1,10 @@
-r6îyDa6/* Estilo geral da página */
+/* Estilo geral da página */
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f5f5f5; /* Fundo claro similar a apps Android */
+    color:#000;
 }
 
 /* Estilo do cabeçalho */
